@@ -1,16 +1,4 @@
-# resturant_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is a mini Ui project which i developed using #flutter!
+it's a kind of resturant menu that the pates of foods comes into screen with a fancy rotating animation!
+there's some screenshot below
+![Screenshot_20200525-124839](https://user-images.githubusercontent.com/60874264/82794796-4cd52780-9e88-11ea-8d77-d5f6d5af3aba.jpg)
